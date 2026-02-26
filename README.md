@@ -53,7 +53,7 @@ Currently seeking SWE and PM roles for Summer 2026.
 - Secure authentication & token flows
 - Dockerized backend with PostgreSQL
 
-🧩 **Repo:** Link Incoming!
+🧩 **Repo:** [SpendWise](https://github.com/university-of-toronto-spendwise/spendwise)
 
 ### 📚 Socrato (CSC492 – Capstone Project)
 
